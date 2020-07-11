@@ -22,7 +22,8 @@
 
 ## Struction
 
-- forecast_house_prices.ipynb：房价预测
+- forecast_house_prices.ipynb：房价预测，回归预测
+- Classification-of-Handwritten-digits.ipynb：MNIST 手写数字分类预测
 
 
 ## About Author
