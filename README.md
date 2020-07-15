@@ -24,6 +24,8 @@
 
 - forecast_house_prices.ipynb：房价预测，回归预测
 - Classification-of-Handwritten-digits.ipynb：MNIST 手写数字分类预测
+- training_model.ipynb：模型训练的方法，梯度下降等等
+- DimensionalityReduction_MapReduce.ipynb：降维方法 PCA，大数据分配流水作业 MapReduce 技术
 
 
 ## About Author
