@@ -1,9 +1,11 @@
 ## Book-title
-- 机器学习
-- 强化学习
-- 深度学习
-- 人工智能
-- AI 算法
+- 机器学习 ML
+- 深度学习 DL
+- 数字图形处理 DSP
+- 计算机视觉 CV
+- 强化学习 
+- 人工智能 AI
+- AI 算法 
 - 数据分析
 - 数据挖掘
 
@@ -19,6 +21,11 @@
 - Compile：IPython
 - IDE：JupyterLab \ JupyterNotebook
 - License：GPL-3.0
+
+- scikit-learn
+- OpenCV
+- TensorFlow
+- PyTorch
 
 ## Struction
 
