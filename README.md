@@ -22,6 +22,7 @@
 - IDE：JupyterLab \ JupyterNotebook
 - License：GPL-3.0
 
+## tools
 - scikit-learn
 - OpenCV
 - TensorFlow
@@ -33,6 +34,8 @@
 - Classification-of-Handwritten-digits.ipynb：MNIST 手写数字分类预测
 - training_model.ipynb：模型训练的方法，梯度下降等等
 - DimensionalityReduction_MapReduce.ipynb：降维方法 PCA，大数据分配流水作业 MapReduce 技术
+- OpenCV_Digital_Image_Processing.ipynb：数字图像处理，OpenCV
+- TensorFlow_Neural_Networks.ipynb：神经网路，深度学习，TensorFlow
 
 
 ## About Author
