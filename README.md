@@ -1,13 +1,14 @@
 ## Book-title
 - 机器学习 ML
 - 深度学习 DL
-- 数字图形处理 DSP
+- 数字图像处理 DIP
 - 计算机视觉 CV
 - 强化学习 
 - 人工智能 AI
 - AI 算法 
 - 数据分析
 - 数据挖掘
+
 
 ## 笔记仓库
 [Github](git@github.com:2694048168/MachineLearning.git)
@@ -35,7 +36,8 @@
 - training_model.ipynb：模型训练的方法，梯度下降等等
 - DimensionalityReduction_MapReduce.ipynb：降维方法 PCA，大数据分配流水作业 MapReduce 技术
 - OpenCV_Digital_Image_Processing.ipynb：数字图像处理，OpenCV
-- TensorFlow_Neural_Networks.ipynb：神经网路，深度学习，TensorFlow
+- TensorFlow_Neural_Networks.ipynb：神经网路，深度学习，TensorFlow, 
+- 深度学习环境搭建详细教程.md : TensorFlow、PyTorch、CUDA、cuDNN、Jupyter、PyCharm、Anaconda
 
 
 ## About Author
