@@ -344,8 +344,9 @@ source ~/.bashrc
 - MXNet
 
 **现在深度学习框架**
-- TensorFlow + Keras
-- PyTorch + Caffe2
+- TensorFlow + Keras( Keras 作为 TensorFlow 后端)
+- PyTorch + Caffe2（Caffe2 作为 PyTorch 后端，Torch 作为 PyTorch 前端）
+- 优势：GPU加速，自动求导，神经网络API
 
 
 ## 人工智能常用库
