@@ -30,30 +30,15 @@
 - PyTorch
 
 ## Struction
+- MachineLearning/: 机器学习的一些实例以及算法实例
 
-- forecast_house_prices.ipynb：房价预测，回归预测
+- DeepLearning/： 神经网络、DNN、CNN、RNN、TensorFlow、PyTorch、Keras
 
-- Classification-of-Handwritten-digits.ipynb：MNIST 手写数字分类预测
+- OpenCV-Python/: OpenCV 数字图像处理以及小应用Demo
 
-- training_model.ipynb：模型训练的方法，梯度下降等等
-
-- DimensionalityReduction_MapReduce.ipynb：降维方法 PCA，大数据分配流水作业 MapReduce 技术
-
-- OpenCV_Digital_Image_Processing.ipynb：数字图像处理，OpenCV
-
-- TensorFlow_Neural_Networks.ipynb：神经网路，深度学习，TensorFlow, 
+- numerical_analysis_calculation/: 数值分析计算
 
 - Detailed-tutorial-on-building-deep-learning-environment.md : TensorFlow、PyTorch、CUDA、cuDNN、Jupyter、PyCharm、Anaconda
-
-- machine_learning_model.ipynb: 机器学习的一些算法，监督学习，集成学习，无监督学习，分类和回归算法
-
-- DeepLearning/ ： 神经网络、DNN、CNN、RNN、TensorFlow、PyTorch、Keras
-
-- OpenCV-Python/ : OpenCV 数字图像处理以及小应用Demo
-
-- datasets/ : 所有的数据集以及数据文件储存
-
-- image/ ： 所有的图片储存以及图像文件
 
 
 ## About Author

@@ -7,6 +7,14 @@
 
 [Gitee](git@gitee.com:weili_yzzcq/MachineLearning.git)
 
+
+**OpenCV for C++**
+- Github： https://github.com/2694048168/C-and-C-plus-plus/tree/master/OpenCV-CPP
+
+- Gitee： https://gitee.com/weili_yzzcq/C-and-C-plus-plus/tree/master/OpenCV-CPP
+
+
+
 ## Software
 - Language：Python3
 - Compile：IPython
