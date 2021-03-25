@@ -19,14 +19,17 @@
 - Notebook 里面的思维导图，使用思维导图软件制作
 - Notebook 里面的算法伪代码，都是使用 LaTeX 的 algorithm2e 这个包制作的
 
+---------------------------------
 
 ## About Author
 
 ### 掌中星辰转日月，手心苍穹天外天。
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——云主宰苍穹
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——云主宰苍穹
 
 ### Stay Hungry, Stay Foolish.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——Steve Jobs
+
+--------------------------------------------
 
 - QQ Mail：2694048168@qq.com
 - QQ：2694048168
@@ -36,3 +39,5 @@
 - Blog：https://2694048168.github.io/
 - Blog：https://weili_yzzcq.gitee.io/ 
 - Blog：https://blog.csdn.net/weixin_46782218/
+
+-----------------------------------------------
