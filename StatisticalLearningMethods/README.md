@@ -14,7 +14,7 @@
 
 ## Notebook
 - 每一个 Notebook 里面的笔记都是摘抄于书籍，可能存在失误之处，请指正
-- 习题答案参考 GitHub、Gitee 以及一些 Blog 等资源，感谢大佬们的奉献
+- 代码借鉴参考 GitHub、Gitee 以及一些 Blog 等资源，感谢大佬们的奉献
 - Notebook 里面的公式都是 符合 LaTeX 公式标准，并使用 LaTeX 规则写的
 - Notebook 里面的思维导图，使用思维导图软件制作
 - Notebook 里面的算法伪代码，都是使用 LaTeX 的 algorithm2e 这个包制作的
