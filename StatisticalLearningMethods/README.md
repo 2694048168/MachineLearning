@@ -5,6 +5,7 @@
 ## Book-title
 - 《 统计学习方法 》 李航
 - [An-Introduction-to-Statistical-Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- An-Introduction-to-Statistical-Learning/
 
 
 ## Software
