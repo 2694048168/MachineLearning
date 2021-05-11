@@ -36,6 +36,10 @@
 
 - TensorFlow2: Tensorflow2 的官方实例教程
 
+- TensorFlow2Learning: 利用 tensorflow 2 实现一些网络框架
+
+- MasteringOpenCV4withPython：利用 OpenCV 进行图像处理以及计算机视觉处理
+
 - MachineLearning/: 机器学习的一些实例以及算法实例
 
 - DeepLearning/： 神经网络、DNN、CNN、RNN、TensorFlow、PyTorch、Keras
@@ -59,12 +63,9 @@
 ----------------------------------------
 
 - QQ Mail：2694048168@qq.com
-- QQ：2694048168
 - Weibo：云主宰苍穹
 - GitHub: https://github.com/2694048168/
 - Gitee：https://gitee.com/weili_yzzcq/
-- Blog：https://2694048168.github.io/
-- Blog：https://weili_yzzcq.gitee.io/ 
 - Blog：https://blog.csdn.net/weixin_46782218/
 
 --------------------------------------------------
