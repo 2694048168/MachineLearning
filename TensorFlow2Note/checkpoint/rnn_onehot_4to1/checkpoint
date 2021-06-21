@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnn_onehot_4to1.ckpt"
+all_model_checkpoint_paths: "rnn_onehot_4to1.ckpt"

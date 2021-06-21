@@ -1,0 +1,1001 @@
+Epoch 0, loss: 0.272679
+Test_acc: 0.4
+Epoch 1, loss: 0.290484
+Test_acc: 0.36666666666666664
+Epoch 2, loss: 0.231335
+Test_acc: 0.6333333333333333
+Epoch 3, loss: 0.151973
+Test_acc: 0.7333333333333333
+Epoch 4, loss: 0.107807
+Test_acc: 0.6666666666666666
+Epoch 5, loss: 0.108165
+Test_acc: 0.9
+Epoch 6, loss: 0.085610
+Test_acc: 1.0
+Epoch 7, loss: 0.082129
+Test_acc: 0.9666666666666667
+Epoch 8, loss: 0.074696
+Test_acc: 0.9666666666666667
+Epoch 9, loss: 0.066714
+Test_acc: 0.9666666666666667
+Epoch 10, loss: 0.062600
+Test_acc: 0.9666666666666667
+Epoch 11, loss: 0.058272
+Test_acc: 0.9666666666666667
+Epoch 12, loss: 0.053877
+Test_acc: 0.9666666666666667
+Epoch 13, loss: 0.050365
+Test_acc: 0.9666666666666667
+Epoch 14, loss: 0.047813
+Test_acc: 0.9666666666666667
+Epoch 15, loss: 0.045101
+Test_acc: 0.9666666666666667
+Epoch 16, loss: 0.043045
+Test_acc: 0.9666666666666667
+Epoch 17, loss: 0.041327
+Test_acc: 0.9666666666666667
+Epoch 18, loss: 0.039700
+Test_acc: 0.9666666666666667
+Epoch 19, loss: 0.038293
+Test_acc: 0.9666666666666667
+Epoch 20, loss: 0.037022
+Test_acc: 0.9666666666666667
+Epoch 21, loss: 0.035873
+Test_acc: 0.9666666666666667
+Epoch 22, loss: 0.034813
+Test_acc: 0.9666666666666667
+Epoch 23, loss: 0.033882
+Test_acc: 0.9666666666666667
+Epoch 24, loss: 0.032982
+Test_acc: 0.9666666666666667
+Epoch 25, loss: 0.032176
+Test_acc: 0.9666666666666667
+Epoch 26, loss: 0.031405
+Test_acc: 0.9666666666666667
+Epoch 27, loss: 0.030708
+Test_acc: 0.9666666666666667
+Epoch 28, loss: 0.030040
+Test_acc: 0.9666666666666667
+Epoch 29, loss: 0.029436
+Test_acc: 0.9666666666666667
+Epoch 30, loss: 0.028851
+Test_acc: 0.9666666666666667
+Epoch 31, loss: 0.028318
+Test_acc: 0.9666666666666667
+Epoch 32, loss: 0.027800
+Test_acc: 0.9666666666666667
+Epoch 33, loss: 0.027327
+Test_acc: 0.9666666666666667
+Epoch 34, loss: 0.026866
+Test_acc: 0.9666666666666667
+Epoch 35, loss: 0.026446
+Test_acc: 0.9666666666666667
+Epoch 36, loss: 0.026031
+Test_acc: 0.9666666666666667
+Epoch 37, loss: 0.025655
+Test_acc: 0.9666666666666667
+Epoch 38, loss: 0.025280
+Test_acc: 0.9666666666666667
+Epoch 39, loss: 0.024941
+Test_acc: 0.9666666666666667
+Epoch 40, loss: 0.024600
+Test_acc: 0.9666666666666667
+Epoch 41, loss: 0.024295
+Test_acc: 0.9666666666666667
+Epoch 42, loss: 0.023983
+Test_acc: 0.9666666666666667
+Epoch 43, loss: 0.023706
+Test_acc: 0.9666666666666667
+Epoch 44, loss: 0.023419
+Test_acc: 0.9666666666666667
+Epoch 45, loss: 0.023167
+Test_acc: 0.9666666666666667
+Epoch 46, loss: 0.022902
+Test_acc: 0.9666666666666667
+Epoch 47, loss: 0.022672
+Test_acc: 0.9666666666666667
+Epoch 48, loss: 0.022426
+Test_acc: 0.9666666666666667
+Epoch 49, loss: 0.022217
+Test_acc: 0.9666666666666667
+Epoch 50, loss: 0.021987
+Test_acc: 0.9666666666666667
+Epoch 51, loss: 0.021795
+Test_acc: 0.9666666666666667
+Epoch 52, loss: 0.021580
+Test_acc: 0.9666666666666667
+Epoch 53, loss: 0.021405
+Test_acc: 0.9666666666666667
+Epoch 54, loss: 0.021202
+Test_acc: 0.9666666666666667
+Epoch 55, loss: 0.021041
+Test_acc: 0.9666666666666667
+Epoch 56, loss: 0.020850
+Test_acc: 0.9666666666666667
+Epoch 57, loss: 0.020702
+Test_acc: 0.9666666666666667
+Epoch 58, loss: 0.020522
+Test_acc: 0.9666666666666667
+Epoch 59, loss: 0.020386
+Test_acc: 0.9666666666666667
+Epoch 60, loss: 0.020215
+Test_acc: 0.9666666666666667
+Epoch 61, loss: 0.020089
+Test_acc: 0.9666666666666667
+Epoch 62, loss: 0.019927
+Test_acc: 0.9666666666666667
+Epoch 63, loss: 0.019810
+Test_acc: 0.9666666666666667
+Epoch 64, loss: 0.019657
+Test_acc: 0.9666666666666667
+Epoch 65, loss: 0.019547
+Test_acc: 0.9666666666666667
+Epoch 66, loss: 0.019403
+Test_acc: 0.9666666666666667
+Epoch 67, loss: 0.019299
+Test_acc: 0.9666666666666667
+Epoch 68, loss: 0.019163
+Test_acc: 0.9666666666666667
+Epoch 69, loss: 0.019065
+Test_acc: 0.9666666666666667
+Epoch 70, loss: 0.018937
+Test_acc: 0.9666666666666667
+Epoch 71, loss: 0.018843
+Test_acc: 0.9666666666666667
+Epoch 72, loss: 0.018723
+Test_acc: 0.9666666666666667
+Epoch 73, loss: 0.018633
+Test_acc: 0.9666666666666667
+Epoch 74, loss: 0.018521
+Test_acc: 0.9666666666666667
+Epoch 75, loss: 0.018433
+Test_acc: 0.9666666666666667
+Epoch 76, loss: 0.018328
+Test_acc: 0.9666666666666667
+Epoch 77, loss: 0.018244
+Test_acc: 0.9666666666666667
+Epoch 78, loss: 0.018145
+Test_acc: 0.9666666666666667
+Epoch 79, loss: 0.018063
+Test_acc: 0.9666666666666667
+Epoch 80, loss: 0.017971
+Test_acc: 0.9666666666666667
+Epoch 81, loss: 0.017891
+Test_acc: 0.9666666666666667
+Epoch 82, loss: 0.017805
+Test_acc: 0.9666666666666667
+Epoch 83, loss: 0.017728
+Test_acc: 0.9666666666666667
+Epoch 84, loss: 0.017647
+Test_acc: 0.9666666666666667
+Epoch 85, loss: 0.017572
+Test_acc: 0.9666666666666667
+Epoch 86, loss: 0.017495
+Test_acc: 0.9666666666666667
+Epoch 87, loss: 0.017423
+Test_acc: 0.9666666666666667
+Epoch 88, loss: 0.017350
+Test_acc: 0.9666666666666667
+Epoch 89, loss: 0.017280
+Test_acc: 0.9666666666666667
+Epoch 90, loss: 0.017211
+Test_acc: 0.9666666666666667
+Epoch 91, loss: 0.017144
+Test_acc: 1.0
+Epoch 92, loss: 0.017078
+Test_acc: 1.0
+Epoch 93, loss: 0.017013
+Test_acc: 1.0
+Epoch 94, loss: 0.016950
+Test_acc: 1.0
+Epoch 95, loss: 0.016888
+Test_acc: 1.0
+Epoch 96, loss: 0.016827
+Test_acc: 1.0
+Epoch 97, loss: 0.016767
+Test_acc: 1.0
+Epoch 98, loss: 0.016709
+Test_acc: 1.0
+Epoch 99, loss: 0.016651
+Test_acc: 1.0
+Epoch 100, loss: 0.016595
+Test_acc: 1.0
+Epoch 101, loss: 0.016540
+Test_acc: 1.0
+Epoch 102, loss: 0.016486
+Test_acc: 1.0
+Epoch 103, loss: 0.016433
+Test_acc: 1.0
+Epoch 104, loss: 0.016381
+Test_acc: 1.0
+Epoch 105, loss: 0.016330
+Test_acc: 1.0
+Epoch 106, loss: 0.016279
+Test_acc: 1.0
+Epoch 107, loss: 0.016230
+Test_acc: 1.0
+Epoch 108, loss: 0.016182
+Test_acc: 1.0
+Epoch 109, loss: 0.016134
+Test_acc: 1.0
+Epoch 110, loss: 0.016087
+Test_acc: 1.0
+Epoch 111, loss: 0.016041
+Test_acc: 1.0
+Epoch 112, loss: 0.015996
+Test_acc: 1.0
+Epoch 113, loss: 0.015952
+Test_acc: 1.0
+Epoch 114, loss: 0.015908
+Test_acc: 1.0
+Epoch 115, loss: 0.015865
+Test_acc: 1.0
+Epoch 116, loss: 0.015823
+Test_acc: 1.0
+Epoch 117, loss: 0.015781
+Test_acc: 1.0
+Epoch 118, loss: 0.015740
+Test_acc: 1.0
+Epoch 119, loss: 0.015700
+Test_acc: 1.0
+Epoch 120, loss: 0.015661
+Test_acc: 1.0
+Epoch 121, loss: 0.015622
+Test_acc: 1.0
+Epoch 122, loss: 0.015583
+Test_acc: 1.0
+Epoch 123, loss: 0.015546
+Test_acc: 1.0
+Epoch 124, loss: 0.015509
+Test_acc: 1.0
+Epoch 125, loss: 0.015472
+Test_acc: 1.0
+Epoch 126, loss: 0.015436
+Test_acc: 1.0
+Epoch 127, loss: 0.015401
+Test_acc: 1.0
+Epoch 128, loss: 0.015366
+Test_acc: 1.0
+Epoch 129, loss: 0.015331
+Test_acc: 1.0
+Epoch 130, loss: 0.015297
+Test_acc: 1.0
+Epoch 131, loss: 0.015264
+Test_acc: 1.0
+Epoch 132, loss: 0.015231
+Test_acc: 1.0
+Epoch 133, loss: 0.015199
+Test_acc: 1.0
+Epoch 134, loss: 0.015167
+Test_acc: 1.0
+Epoch 135, loss: 0.015135
+Test_acc: 1.0
+Epoch 136, loss: 0.015104
+Test_acc: 1.0
+Epoch 137, loss: 0.015073
+Test_acc: 1.0
+Epoch 138, loss: 0.015043
+Test_acc: 1.0
+Epoch 139, loss: 0.015013
+Test_acc: 1.0
+Epoch 140, loss: 0.014984
+Test_acc: 1.0
+Epoch 141, loss: 0.014955
+Test_acc: 1.0
+Epoch 142, loss: 0.014926
+Test_acc: 1.0
+Epoch 143, loss: 0.014898
+Test_acc: 1.0
+Epoch 144, loss: 0.014870
+Test_acc: 1.0
+Epoch 145, loss: 0.014843
+Test_acc: 1.0
+Epoch 146, loss: 0.014816
+Test_acc: 1.0
+Epoch 147, loss: 0.014789
+Test_acc: 1.0
+Epoch 148, loss: 0.014763
+Test_acc: 1.0
+Epoch 149, loss: 0.014737
+Test_acc: 1.0
+Epoch 150, loss: 0.014711
+Test_acc: 1.0
+Epoch 151, loss: 0.014686
+Test_acc: 1.0
+Epoch 152, loss: 0.014660
+Test_acc: 1.0
+Epoch 153, loss: 0.014636
+Test_acc: 1.0
+Epoch 154, loss: 0.014611
+Test_acc: 1.0
+Epoch 155, loss: 0.014587
+Test_acc: 1.0
+Epoch 156, loss: 0.014563
+Test_acc: 1.0
+Epoch 157, loss: 0.014540
+Test_acc: 1.0
+Epoch 158, loss: 0.014516
+Test_acc: 1.0
+Epoch 159, loss: 0.014493
+Test_acc: 1.0
+Epoch 160, loss: 0.014471
+Test_acc: 1.0
+Epoch 161, loss: 0.014448
+Test_acc: 1.0
+Epoch 162, loss: 0.014426
+Test_acc: 1.0
+Epoch 163, loss: 0.014404
+Test_acc: 1.0
+Epoch 164, loss: 0.014383
+Test_acc: 1.0
+Epoch 165, loss: 0.014361
+Test_acc: 1.0
+Epoch 166, loss: 0.014340
+Test_acc: 1.0
+Epoch 167, loss: 0.014319
+Test_acc: 1.0
+Epoch 168, loss: 0.014298
+Test_acc: 1.0
+Epoch 169, loss: 0.014278
+Test_acc: 1.0
+Epoch 170, loss: 0.014258
+Test_acc: 1.0
+Epoch 171, loss: 0.014238
+Test_acc: 1.0
+Epoch 172, loss: 0.014218
+Test_acc: 1.0
+Epoch 173, loss: 0.014199
+Test_acc: 1.0
+Epoch 174, loss: 0.014179
+Test_acc: 1.0
+Epoch 175, loss: 0.014160
+Test_acc: 1.0
+Epoch 176, loss: 0.014141
+Test_acc: 1.0
+Epoch 177, loss: 0.014123
+Test_acc: 1.0
+Epoch 178, loss: 0.014104
+Test_acc: 1.0
+Epoch 179, loss: 0.014086
+Test_acc: 1.0
+Epoch 180, loss: 0.014068
+Test_acc: 1.0
+Epoch 181, loss: 0.014050
+Test_acc: 1.0
+Epoch 182, loss: 0.014032
+Test_acc: 1.0
+Epoch 183, loss: 0.014015
+Test_acc: 1.0
+Epoch 184, loss: 0.013997
+Test_acc: 1.0
+Epoch 185, loss: 0.013980
+Test_acc: 1.0
+Epoch 186, loss: 0.013963
+Test_acc: 1.0
+Epoch 187, loss: 0.013946
+Test_acc: 1.0
+Epoch 188, loss: 0.013930
+Test_acc: 1.0
+Epoch 189, loss: 0.013913
+Test_acc: 1.0
+Epoch 190, loss: 0.013897
+Test_acc: 1.0
+Epoch 191, loss: 0.013881
+Test_acc: 1.0
+Epoch 192, loss: 0.013865
+Test_acc: 1.0
+Epoch 193, loss: 0.013849
+Test_acc: 1.0
+Epoch 194, loss: 0.013834
+Test_acc: 1.0
+Epoch 195, loss: 0.013818
+Test_acc: 1.0
+Epoch 196, loss: 0.013803
+Test_acc: 1.0
+Epoch 197, loss: 0.013788
+Test_acc: 1.0
+Epoch 198, loss: 0.013773
+Test_acc: 1.0
+Epoch 199, loss: 0.013758
+Test_acc: 1.0
+Epoch 200, loss: 0.013743
+Test_acc: 1.0
+Epoch 201, loss: 0.013728
+Test_acc: 1.0
+Epoch 202, loss: 0.013714
+Test_acc: 1.0
+Epoch 203, loss: 0.013699
+Test_acc: 1.0
+Epoch 204, loss: 0.013685
+Test_acc: 1.0
+Epoch 205, loss: 0.013671
+Test_acc: 1.0
+Epoch 206, loss: 0.013657
+Test_acc: 1.0
+Epoch 207, loss: 0.013643
+Test_acc: 1.0
+Epoch 208, loss: 0.013630
+Test_acc: 1.0
+Epoch 209, loss: 0.013616
+Test_acc: 1.0
+Epoch 210, loss: 0.013603
+Test_acc: 1.0
+Epoch 211, loss: 0.013589
+Test_acc: 1.0
+Epoch 212, loss: 0.013576
+Test_acc: 1.0
+Epoch 213, loss: 0.013563
+Test_acc: 1.0
+Epoch 214, loss: 0.013550
+Test_acc: 1.0
+Epoch 215, loss: 0.013537
+Test_acc: 1.0
+Epoch 216, loss: 0.013525
+Test_acc: 1.0
+Epoch 217, loss: 0.013512
+Test_acc: 1.0
+Epoch 218, loss: 0.013500
+Test_acc: 1.0
+Epoch 219, loss: 0.013487
+Test_acc: 1.0
+Epoch 220, loss: 0.013475
+Test_acc: 1.0
+Epoch 221, loss: 0.013463
+Test_acc: 1.0
+Epoch 222, loss: 0.013451
+Test_acc: 1.0
+Epoch 223, loss: 0.013439
+Test_acc: 1.0
+Epoch 224, loss: 0.013427
+Test_acc: 1.0
+Epoch 225, loss: 0.013415
+Test_acc: 1.0
+Epoch 226, loss: 0.013404
+Test_acc: 1.0
+Epoch 227, loss: 0.013392
+Test_acc: 1.0
+Epoch 228, loss: 0.013381
+Test_acc: 1.0
+Epoch 229, loss: 0.013369
+Test_acc: 1.0
+Epoch 230, loss: 0.013358
+Test_acc: 1.0
+Epoch 231, loss: 0.013347
+Test_acc: 1.0
+Epoch 232, loss: 0.013336
+Test_acc: 1.0
+Epoch 233, loss: 0.013325
+Test_acc: 1.0
+Epoch 234, loss: 0.013314
+Test_acc: 1.0
+Epoch 235, loss: 0.013303
+Test_acc: 1.0
+Epoch 236, loss: 0.013292
+Test_acc: 1.0
+Epoch 237, loss: 0.013282
+Test_acc: 1.0
+Epoch 238, loss: 0.013271
+Test_acc: 1.0
+Epoch 239, loss: 0.013261
+Test_acc: 1.0
+Epoch 240, loss: 0.013250
+Test_acc: 1.0
+Epoch 241, loss: 0.013240
+Test_acc: 1.0
+Epoch 242, loss: 0.013230
+Test_acc: 1.0
+Epoch 243, loss: 0.013220
+Test_acc: 1.0
+Epoch 244, loss: 0.013210
+Test_acc: 1.0
+Epoch 245, loss: 0.013200
+Test_acc: 1.0
+Epoch 246, loss: 0.013190
+Test_acc: 1.0
+Epoch 247, loss: 0.013180
+Test_acc: 1.0
+Epoch 248, loss: 0.013170
+Test_acc: 1.0
+Epoch 249, loss: 0.013161
+Test_acc: 1.0
+Epoch 250, loss: 0.013151
+Test_acc: 1.0
+Epoch 251, loss: 0.013141
+Test_acc: 1.0
+Epoch 252, loss: 0.013132
+Test_acc: 1.0
+Epoch 253, loss: 0.013123
+Test_acc: 1.0
+Epoch 254, loss: 0.013113
+Test_acc: 1.0
+Epoch 255, loss: 0.013104
+Test_acc: 1.0
+Epoch 256, loss: 0.013095
+Test_acc: 1.0
+Epoch 257, loss: 0.013086
+Test_acc: 1.0
+Epoch 258, loss: 0.013077
+Test_acc: 1.0
+Epoch 259, loss: 0.013068
+Test_acc: 1.0
+Epoch 260, loss: 0.013059
+Test_acc: 1.0
+Epoch 261, loss: 0.013050
+Test_acc: 1.0
+Epoch 262, loss: 0.013041
+Test_acc: 1.0
+Epoch 263, loss: 0.013033
+Test_acc: 1.0
+Epoch 264, loss: 0.013024
+Test_acc: 1.0
+Epoch 265, loss: 0.013016
+Test_acc: 1.0
+Epoch 266, loss: 0.013007
+Test_acc: 1.0
+Epoch 267, loss: 0.012999
+Test_acc: 1.0
+Epoch 268, loss: 0.012990
+Test_acc: 1.0
+Epoch 269, loss: 0.012982
+Test_acc: 1.0
+Epoch 270, loss: 0.012974
+Test_acc: 1.0
+Epoch 271, loss: 0.012965
+Test_acc: 1.0
+Epoch 272, loss: 0.012957
+Test_acc: 1.0
+Epoch 273, loss: 0.012949
+Test_acc: 1.0
+Epoch 274, loss: 0.012941
+Test_acc: 1.0
+Epoch 275, loss: 0.012933
+Test_acc: 1.0
+Epoch 276, loss: 0.012925
+Test_acc: 1.0
+Epoch 277, loss: 0.012917
+Test_acc: 1.0
+Epoch 278, loss: 0.012909
+Test_acc: 1.0
+Epoch 279, loss: 0.012902
+Test_acc: 1.0
+Epoch 280, loss: 0.012894
+Test_acc: 1.0
+Epoch 281, loss: 0.012886
+Test_acc: 1.0
+Epoch 282, loss: 0.012879
+Test_acc: 1.0
+Epoch 283, loss: 0.012871
+Test_acc: 1.0
+Epoch 284, loss: 0.012864
+Test_acc: 1.0
+Epoch 285, loss: 0.012856
+Test_acc: 1.0
+Epoch 286, loss: 0.012849
+Test_acc: 1.0
+Epoch 287, loss: 0.012841
+Test_acc: 1.0
+Epoch 288, loss: 0.012834
+Test_acc: 1.0
+Epoch 289, loss: 0.012827
+Test_acc: 1.0
+Epoch 290, loss: 0.012820
+Test_acc: 1.0
+Epoch 291, loss: 0.012813
+Test_acc: 1.0
+Epoch 292, loss: 0.012805
+Test_acc: 1.0
+Epoch 293, loss: 0.012798
+Test_acc: 1.0
+Epoch 294, loss: 0.012791
+Test_acc: 1.0
+Epoch 295, loss: 0.012784
+Test_acc: 1.0
+Epoch 296, loss: 0.012777
+Test_acc: 1.0
+Epoch 297, loss: 0.012771
+Test_acc: 1.0
+Epoch 298, loss: 0.012764
+Test_acc: 1.0
+Epoch 299, loss: 0.012757
+Test_acc: 1.0
+Epoch 300, loss: 0.012750
+Test_acc: 1.0
+Epoch 301, loss: 0.012743
+Test_acc: 1.0
+Epoch 302, loss: 0.012737
+Test_acc: 1.0
+Epoch 303, loss: 0.012730
+Test_acc: 1.0
+Epoch 304, loss: 0.012724
+Test_acc: 1.0
+Epoch 305, loss: 0.012717
+Test_acc: 1.0
+Epoch 306, loss: 0.012711
+Test_acc: 1.0
+Epoch 307, loss: 0.012704
+Test_acc: 1.0
+Epoch 308, loss: 0.012698
+Test_acc: 1.0
+Epoch 309, loss: 0.012691
+Test_acc: 1.0
+Epoch 310, loss: 0.012685
+Test_acc: 1.0
+Epoch 311, loss: 0.012679
+Test_acc: 1.0
+Epoch 312, loss: 0.012672
+Test_acc: 1.0
+Epoch 313, loss: 0.012666
+Test_acc: 1.0
+Epoch 314, loss: 0.012660
+Test_acc: 1.0
+Epoch 315, loss: 0.012654
+Test_acc: 1.0
+Epoch 316, loss: 0.012648
+Test_acc: 1.0
+Epoch 317, loss: 0.012642
+Test_acc: 1.0
+Epoch 318, loss: 0.012636
+Test_acc: 1.0
+Epoch 319, loss: 0.012630
+Test_acc: 1.0
+Epoch 320, loss: 0.012624
+Test_acc: 1.0
+Epoch 321, loss: 0.012618
+Test_acc: 1.0
+Epoch 322, loss: 0.012612
+Test_acc: 1.0
+Epoch 323, loss: 0.012606
+Test_acc: 1.0
+Epoch 324, loss: 0.012600
+Test_acc: 1.0
+Epoch 325, loss: 0.012594
+Test_acc: 1.0
+Epoch 326, loss: 0.012588
+Test_acc: 1.0
+Epoch 327, loss: 0.012583
+Test_acc: 1.0
+Epoch 328, loss: 0.012577
+Test_acc: 1.0
+Epoch 329, loss: 0.012571
+Test_acc: 1.0
+Epoch 330, loss: 0.012566
+Test_acc: 1.0
+Epoch 331, loss: 0.012560
+Test_acc: 1.0
+Epoch 332, loss: 0.012555
+Test_acc: 1.0
+Epoch 333, loss: 0.012549
+Test_acc: 1.0
+Epoch 334, loss: 0.012544
+Test_acc: 1.0
+Epoch 335, loss: 0.012538
+Test_acc: 1.0
+Epoch 336, loss: 0.012533
+Test_acc: 1.0
+Epoch 337, loss: 0.012527
+Test_acc: 1.0
+Epoch 338, loss: 0.012522
+Test_acc: 1.0
+Epoch 339, loss: 0.012517
+Test_acc: 1.0
+Epoch 340, loss: 0.012511
+Test_acc: 1.0
+Epoch 341, loss: 0.012506
+Test_acc: 1.0
+Epoch 342, loss: 0.012501
+Test_acc: 1.0
+Epoch 343, loss: 0.012495
+Test_acc: 1.0
+Epoch 344, loss: 0.012490
+Test_acc: 1.0
+Epoch 345, loss: 0.012485
+Test_acc: 1.0
+Epoch 346, loss: 0.012480
+Test_acc: 1.0
+Epoch 347, loss: 0.012475
+Test_acc: 1.0
+Epoch 348, loss: 0.012470
+Test_acc: 1.0
+Epoch 349, loss: 0.012465
+Test_acc: 1.0
+Epoch 350, loss: 0.012460
+Test_acc: 1.0
+Epoch 351, loss: 0.012455
+Test_acc: 1.0
+Epoch 352, loss: 0.012450
+Test_acc: 1.0
+Epoch 353, loss: 0.012445
+Test_acc: 1.0
+Epoch 354, loss: 0.012440
+Test_acc: 1.0
+Epoch 355, loss: 0.012435
+Test_acc: 1.0
+Epoch 356, loss: 0.012430
+Test_acc: 1.0
+Epoch 357, loss: 0.012425
+Test_acc: 1.0
+Epoch 358, loss: 0.012420
+Test_acc: 1.0
+Epoch 359, loss: 0.012416
+Test_acc: 1.0
+Epoch 360, loss: 0.012411
+Test_acc: 1.0
+Epoch 361, loss: 0.012406
+Test_acc: 1.0
+Epoch 362, loss: 0.012401
+Test_acc: 1.0
+Epoch 363, loss: 0.012397
+Test_acc: 1.0
+Epoch 364, loss: 0.012392
+Test_acc: 1.0
+Epoch 365, loss: 0.012387
+Test_acc: 1.0
+Epoch 366, loss: 0.012383
+Test_acc: 1.0
+Epoch 367, loss: 0.012378
+Test_acc: 1.0
+Epoch 368, loss: 0.012374
+Test_acc: 1.0
+Epoch 369, loss: 0.012369
+Test_acc: 1.0
+Epoch 370, loss: 0.012365
+Test_acc: 1.0
+Epoch 371, loss: 0.012360
+Test_acc: 1.0
+Epoch 372, loss: 0.012356
+Test_acc: 1.0
+Epoch 373, loss: 0.012351
+Test_acc: 1.0
+Epoch 374, loss: 0.012347
+Test_acc: 1.0
+Epoch 375, loss: 0.012342
+Test_acc: 1.0
+Epoch 376, loss: 0.012338
+Test_acc: 1.0
+Epoch 377, loss: 0.012333
+Test_acc: 1.0
+Epoch 378, loss: 0.012329
+Test_acc: 1.0
+Epoch 379, loss: 0.012325
+Test_acc: 1.0
+Epoch 380, loss: 0.012321
+Test_acc: 1.0
+Epoch 381, loss: 0.012316
+Test_acc: 1.0
+Epoch 382, loss: 0.012312
+Test_acc: 1.0
+Epoch 383, loss: 0.012308
+Test_acc: 1.0
+Epoch 384, loss: 0.012304
+Test_acc: 1.0
+Epoch 385, loss: 0.012299
+Test_acc: 1.0
+Epoch 386, loss: 0.012295
+Test_acc: 1.0
+Epoch 387, loss: 0.012291
+Test_acc: 1.0
+Epoch 388, loss: 0.012287
+Test_acc: 1.0
+Epoch 389, loss: 0.012283
+Test_acc: 1.0
+Epoch 390, loss: 0.012279
+Test_acc: 1.0
+Epoch 391, loss: 0.012275
+Test_acc: 1.0
+Epoch 392, loss: 0.012271
+Test_acc: 1.0
+Epoch 393, loss: 0.012266
+Test_acc: 1.0
+Epoch 394, loss: 0.012262
+Test_acc: 1.0
+Epoch 395, loss: 0.012258
+Test_acc: 1.0
+Epoch 396, loss: 0.012255
+Test_acc: 1.0
+Epoch 397, loss: 0.012251
+Test_acc: 1.0
+Epoch 398, loss: 0.012247
+Test_acc: 1.0
+Epoch 399, loss: 0.012243
+Test_acc: 1.0
+Epoch 400, loss: 0.012239
+Test_acc: 1.0
+Epoch 401, loss: 0.012235
+Test_acc: 1.0
+Epoch 402, loss: 0.012231
+Test_acc: 1.0
+Epoch 403, loss: 0.012227
+Test_acc: 1.0
+Epoch 404, loss: 0.012223
+Test_acc: 1.0
+Epoch 405, loss: 0.012220
+Test_acc: 1.0
+Epoch 406, loss: 0.012216
+Test_acc: 1.0
+Epoch 407, loss: 0.012212
+Test_acc: 1.0
+Epoch 408, loss: 0.012208
+Test_acc: 1.0
+Epoch 409, loss: 0.012204
+Test_acc: 1.0
+Epoch 410, loss: 0.012201
+Test_acc: 1.0
+Epoch 411, loss: 0.012197
+Test_acc: 1.0
+Epoch 412, loss: 0.012193
+Test_acc: 1.0
+Epoch 413, loss: 0.012190
+Test_acc: 1.0
+Epoch 414, loss: 0.012186
+Test_acc: 1.0
+Epoch 415, loss: 0.012182
+Test_acc: 1.0
+Epoch 416, loss: 0.012179
+Test_acc: 1.0
+Epoch 417, loss: 0.012175
+Test_acc: 1.0
+Epoch 418, loss: 0.012172
+Test_acc: 1.0
+Epoch 419, loss: 0.012168
+Test_acc: 1.0
+Epoch 420, loss: 0.012164
+Test_acc: 1.0
+Epoch 421, loss: 0.012161
+Test_acc: 1.0
+Epoch 422, loss: 0.012157
+Test_acc: 1.0
+Epoch 423, loss: 0.012154
+Test_acc: 1.0
+Epoch 424, loss: 0.012150
+Test_acc: 1.0
+Epoch 425, loss: 0.012147
+Test_acc: 1.0
+Epoch 426, loss: 0.012143
+Test_acc: 1.0
+Epoch 427, loss: 0.012140
+Test_acc: 1.0
+Epoch 428, loss: 0.012137
+Test_acc: 1.0
+Epoch 429, loss: 0.012133
+Test_acc: 1.0
+Epoch 430, loss: 0.012130
+Test_acc: 1.0
+Epoch 431, loss: 0.012126
+Test_acc: 1.0
+Epoch 432, loss: 0.012123
+Test_acc: 1.0
+Epoch 433, loss: 0.012120
+Test_acc: 1.0
+Epoch 434, loss: 0.012116
+Test_acc: 1.0
+Epoch 435, loss: 0.012113
+Test_acc: 1.0
+Epoch 436, loss: 0.012110
+Test_acc: 1.0
+Epoch 437, loss: 0.012106
+Test_acc: 1.0
+Epoch 438, loss: 0.012103
+Test_acc: 1.0
+Epoch 439, loss: 0.012100
+Test_acc: 1.0
+Epoch 440, loss: 0.012096
+Test_acc: 1.0
+Epoch 441, loss: 0.012093
+Test_acc: 1.0
+Epoch 442, loss: 0.012090
+Test_acc: 1.0
+Epoch 443, loss: 0.012087
+Test_acc: 1.0
+Epoch 444, loss: 0.012084
+Test_acc: 1.0
+Epoch 445, loss: 0.012080
+Test_acc: 1.0
+Epoch 446, loss: 0.012077
+Test_acc: 1.0
+Epoch 447, loss: 0.012074
+Test_acc: 1.0
+Epoch 448, loss: 0.012071
+Test_acc: 1.0
+Epoch 449, loss: 0.012068
+Test_acc: 1.0
+Epoch 450, loss: 0.012065
+Test_acc: 1.0
+Epoch 451, loss: 0.012061
+Test_acc: 1.0
+Epoch 452, loss: 0.012058
+Test_acc: 1.0
+Epoch 453, loss: 0.012055
+Test_acc: 1.0
+Epoch 454, loss: 0.012052
+Test_acc: 1.0
+Epoch 455, loss: 0.012049
+Test_acc: 1.0
+Epoch 456, loss: 0.012046
+Test_acc: 1.0
+Epoch 457, loss: 0.012043
+Test_acc: 1.0
+Epoch 458, loss: 0.012040
+Test_acc: 1.0
+Epoch 459, loss: 0.012037
+Test_acc: 1.0
+Epoch 460, loss: 0.012034
+Test_acc: 1.0
+Epoch 461, loss: 0.012031
+Test_acc: 1.0
+Epoch 462, loss: 0.012028
+Test_acc: 1.0
+Epoch 463, loss: 0.012025
+Test_acc: 1.0
+Epoch 464, loss: 0.012022
+Test_acc: 1.0
+Epoch 465, loss: 0.012019
+Test_acc: 1.0
+Epoch 466, loss: 0.012016
+Test_acc: 1.0
+Epoch 467, loss: 0.012013
+Test_acc: 1.0
+Epoch 468, loss: 0.012010
+Test_acc: 1.0
+Epoch 469, loss: 0.012008
+Test_acc: 1.0
+Epoch 470, loss: 0.012005
+Test_acc: 1.0
+Epoch 471, loss: 0.012002
+Test_acc: 1.0
+Epoch 472, loss: 0.011999
+Test_acc: 1.0
+Epoch 473, loss: 0.011996
+Test_acc: 1.0
+Epoch 474, loss: 0.011993
+Test_acc: 1.0
+Epoch 475, loss: 0.011990
+Test_acc: 1.0
+Epoch 476, loss: 0.011988
+Test_acc: 1.0
+Epoch 477, loss: 0.011985
+Test_acc: 1.0
+Epoch 478, loss: 0.011982
+Test_acc: 1.0
+Epoch 479, loss: 0.011979
+Test_acc: 1.0
+Epoch 480, loss: 0.011976
+Test_acc: 1.0
+Epoch 481, loss: 0.011974
+Test_acc: 1.0
+Epoch 482, loss: 0.011971
+Test_acc: 1.0
+Epoch 483, loss: 0.011968
+Test_acc: 1.0
+Epoch 484, loss: 0.011965
+Test_acc: 1.0
+Epoch 485, loss: 0.011963
+Test_acc: 1.0
+Epoch 486, loss: 0.011960
+Test_acc: 1.0
+Epoch 487, loss: 0.011957
+Test_acc: 1.0
+Epoch 488, loss: 0.011955
+Test_acc: 1.0
+Epoch 489, loss: 0.011952
+Test_acc: 1.0
+Epoch 490, loss: 0.011949
+Test_acc: 1.0
+Epoch 491, loss: 0.011947
+Test_acc: 1.0
+Epoch 492, loss: 0.011944
+Test_acc: 1.0
+Epoch 493, loss: 0.011941
+Test_acc: 1.0
+Epoch 494, loss: 0.011939
+Test_acc: 1.0
+Epoch 495, loss: 0.011936
+Test_acc: 1.0
+Epoch 496, loss: 0.011934
+Test_acc: 1.0
+Epoch 497, loss: 0.011931
+Test_acc: 1.0
+Epoch 498, loss: 0.011928
+Test_acc: 1.0
+Epoch 499, loss: 0.011926
+Test_acc: 1.0
+total time: 10.131743669509888

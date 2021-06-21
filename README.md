@@ -30,6 +30,8 @@
 
 ## 各种丰富实战实例
 
+- TensorFlow2Note: TensorFlow2 使用指南，快速入门使用 Tensorflow2
+
 - TensorFlow2TensorBoard: TensorBoard 官方指南教程，可视化分析 Tensorflow2
 
 - TensorFlow2Gride: Tensorflow2 官方指南教程
